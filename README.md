@@ -5,11 +5,11 @@ The toolkit enables auto-generated ultrasound haptics for mid-air hand interacti
 The software can be modified for other software and hardware. The plugin has been tested with the following.
 
 #### Software
-- Ultraleap Tracking Service 5.13
+- Ultraleap Tracking Service 5.1 ([link](https://leap2.ultraleap.com/gemini-downloads/?_gl=1*1ph45u5*_ga*MTMzNjcxMjA2NS4xNzEzOTUyMDkz*_ga_5G8B19JLWG*MTcxMzk1MjA5Mi4xLjEuMTcxMzk1MjEwNy40NS4wLjA.))
   - Unity Plugin "Tracking"
   - Requires ServiceProvider
-- UltraleapHapticsWithExample-3.0.0-beta.10
-  - Only tested with this version. May require slight adaption for newer versions.
+- UltraleapHapticsWithExample-3.0.0-beta.10 (Acquired from Ultraleap: [link to haptics developer site](https://developer.ultrahaptics.com/))
+  - Only tested with this version. May require adaption for other versions.
 - Tested in Unity 2021.3.1f1
 
 #### Hardware
